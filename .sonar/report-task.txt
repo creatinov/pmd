@@ -1,0 +1,5 @@
+projectKey=pmd-history
+serverUrl=http://104.199.232.38:9000
+dashboardUrl=http://104.199.232.38:9000/dashboard/index/pmd-history
+ceTaskId=AVi5UMcJSvD2ulMwYeFD
+ceTaskUrl=http://104.199.232.38:9000/api/ce/task?id=AVi5UMcJSvD2ulMwYeFD

@@ -126,6 +126,10 @@ public class PMDTask extends Task {
         this.minimumPriority = minPriority;
     }
 
+    /**
+     * 
+     * @param set
+     */
     public void addFileset(FileSet set) {
         filesets.add(set);
     }
